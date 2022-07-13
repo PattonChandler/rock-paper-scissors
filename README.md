@@ -12,3 +12,4 @@
 ```
 cd ~/onedrive/desktop/githubprojects/rock-paper-scissors
 ```
+### If you are not sure where the repo is downloaded, and are using Github Desktop, you can click on "Show in Explorer" when the repo has been opened in Github Desktop.
