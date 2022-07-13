@@ -1,4 +1,6 @@
-# **Rock-Paper-Scissors**
+<span style="color:blue">
+    #**Rock-Paper-Scissors**
+</span>
 ## In this classic game of rock, paper, scissors, you will compete against a computer in an attempt to be the rock, paper, scissors master! :grinning:
 # **Purpose**
 ## The program is for educational purposes as part of NYU's MBA program.
