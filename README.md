@@ -8,4 +8,7 @@
 ![Successful Rock, Paper, Scissors Run](https://i.imgur.com/QFhlELs.png)
 # **Installation**
 ## You will need to clone this repository to your computer.
-### You will then need to navigate there form the command-line. Example command below, will vary depending on where the repo is downloaded:"`cd ~/onedrive/desktop/githubprojects/rock-paper-scissors
+### You will then need to navigate there form the command-line. Example command below, will vary depending on where the repo is downloaded:
+```
+cd ~/onedrive/desktop/githubprojects/rock-paper-scissors
+```
