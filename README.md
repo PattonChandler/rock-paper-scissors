@@ -17,6 +17,7 @@ Create and activate a new project-specific Anaconda virtual environment:
 conda create -n my-game-env python=3.8
 conda activate my-game-env
 ```
+# **Play the Game!**
 Once the environment has been set up you can begin to run the script by entering the following on the command line:
 ```
 python game.py
