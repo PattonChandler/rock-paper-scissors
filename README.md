@@ -4,5 +4,5 @@
 ## The program is for educational purposes as part of NYU's MBA program.
 # **Bug Status**
 ## As of 7/13/22, there should be no bugs present in the program. If there are, it is not user error, and there is an issue with the code. 
-# **A Sucessful Program Image is Below**
-![rock-paper-scissors-image](onedrive/desktop/githubprojects/images/rock-paper-scissors-image.png)
+# **A Successful Program Image is Below**
+![Successful Rock, Paper, Scissors Run](https://imgur.com/a/gcBbDa4)
