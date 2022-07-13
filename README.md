@@ -13,3 +13,9 @@
 cd ~/onedrive/desktop/githubprojects/rock-paper-scissors
 ```
 ### If you are not sure where the repo is downloaded, and are using Github Desktop, you can click on "Show in Explorer" when the repo has been opened in Github Desktop.
+# **Environment Setup**
+## Create and activate a new project-specific Anaconda virtual environment:
+```
+conda create -n my-game-env python=3.8 *Note, you only need to do this the first time you are setting this up*
+conda activate my-game-env
+```
