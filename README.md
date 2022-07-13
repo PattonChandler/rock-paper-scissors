@@ -4,8 +4,6 @@
 ## The program is for educational purposes as part of NYU's MBA program.
 # **Bug Status**
 ## As of 7/13/22, there should be no bugs present in the program. If there are, it is not user error, and there is an issue with the code. 
-# **An Image of a Successful Run is Below**
-![Successful Rock, Paper, Scissors Run](https://i.imgur.com/QFhlELs.png)
 # **Installation**
 ## You will need to clone this repository to your computer.
 ### You will then need to navigate there form the command-line. Example command below, will vary depending on where the repo is downloaded:
@@ -23,4 +21,6 @@ conda activate my-game-env
 ```
 python game.py
 ```
+# **An Image of a Successful Run is Below**
+![Successful Rock, Paper, Scissors Run](https://i.imgur.com/QFhlELs.png)
 # ENJOY!! :blush:
