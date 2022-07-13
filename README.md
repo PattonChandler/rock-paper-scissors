@@ -1,5 +1,5 @@
 <span style="color:blue">
-    # **Rock-Paper-Scissors**
+# **Rock-Paper-Scissors**
 </span>
 ## In this classic game of rock, paper, scissors, you will compete against a computer in an attempt to be the rock, paper, scissors master! :grinning:
 # **Purpose**
