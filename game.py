@@ -3,6 +3,7 @@ print("Welcome Player One to Rock, Paper, Scissors, Shoot!")
 # USER INPUTS
 user_choice = input("Please make a selection ('rock', 'paper', 'scissors'):")
 user_choice = user_choice.lower()
+user_choice = user_choice.strip()
 print(f"You chose: '{user_choice}'")
 # VALIDATE USER INPUTS
 valid_options = ["rock", "paper", "scissors"]
