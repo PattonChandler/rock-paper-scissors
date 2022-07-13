@@ -16,6 +16,11 @@ cd ~/onedrive/desktop/githubprojects/rock-paper-scissors
 # **Environment Setup**
 ## Create and activate a new project-specific Anaconda virtual environment:
 ```
-conda create -n my-game-env python=3.8 *Note, you only need to do this the first time you are setting this up*
+conda create -n my-game-env python=3.8
 conda activate my-game-env
 ```
+## Once the environment has been set up you can begin to run the script by entering the following on the command line:
+```
+python game.py
+```
+# ENJOY!! :blush:
